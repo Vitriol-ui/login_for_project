@@ -65,6 +65,8 @@ h2{
 }
 
 .yaad {
+    font-size: 18px;
+    font-weight: 200;
     display: flex;
     align-items: center;
     gap: 8px;
@@ -93,4 +95,19 @@ h2{
 .buttom:hover {
     background-color: royalblue;
     color: white ;
+}
+
+.register {
+    font-size: 18px;
+    font-weight: 200;
+    text-align: left;
+    margin-top: 20px;
+    font-size: 15px;
+    color: black;
+}
+
+.register-link {
+    font-size: 18px;
+     font-weight: 200;
+    color: royalblue;
 }
